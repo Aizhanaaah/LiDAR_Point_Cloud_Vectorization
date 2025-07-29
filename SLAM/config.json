@@ -1,0 +1,13 @@
+{
+    "map_dimensions": [600, 1200],
+    "map_image": "map1.png",
+    "window_name": "RRT Path Planning",
+    "colors": {
+        "black": [0, 0, 0],
+        "grey": [70, 70, 70],
+        "blue": [0, 0, 255],
+        "green": [0, 255, 0],
+        "red": [255, 0, 0],
+        "white": [255, 255, 255]
+    }
+}
